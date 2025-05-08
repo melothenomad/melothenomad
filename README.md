@@ -4,9 +4,9 @@
 
 I'm a Data Scientist with a Marketing background and a postgraduate degree in Innovation & User Experience from ESPM.
 
-From 2021 to 2024, I helped a company in the pharmaceutical sector increase sales by 300% by leveraging marketing KPIs and developing data-driven product campaigns. Today, I help Web3 projects grow through data-driven strategy.
+From 2021 to 2024, I helped a company in the pharmaceutical sector increase sales by 300% by leveraging marketing KPIs and developing data-driven product campaigns. Today, I help Web3 projects grow through data-driven marketing strategy.
 
-I'm proficient in tools like Power BI, and currently sharpening my skills in Python and SQL. I use data to uncover insights, build dashboards, and support marketing teams in making smarter decisions that drive product growth.
+I'm proficient in tools like Power BI, and currently sharpening my skills in Python and SQL. I use data to generate insights and support teams in making informed decisions that drive product growth.
 
 Recently, I created [Cryptoscope](https://cryptoscope.framer.ai/), a web application that showcases cryptocurrency prices through interactive visualizations and analytics. The project aims to help investors and traders develop better strategies by offering deeper, more actionable views of crypto markets.
 
