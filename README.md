@@ -8,7 +8,7 @@ From 2021 to 2024, I helped a company in the pharmaceutical sector increase sale
 
 I'm proficient in tools like Power BI, and currently sharpening my skills in Python and SQL. I use data to uncover insights, build dashboards, and support marketing teams in making smarter decisions that drive product growth.
 
-Recently, I created [Cryptoscope](https://cryptoscope.framer.ai/), a web application that showcases cryptocurrency prices through interactive visualizations and analytics. The project aims to help investors and traders develop better strategies by offering different perspectives on market data and making insights more accessible.
+Recently, I created [Cryptoscope](https://cryptoscope.framer.ai/), a web application that showcases cryptocurrency prices through interactive visualizations and analytics. The project aims to help investors and traders develop better strategies by offering deeper, more actionable views of crypto markets.
 
 </p>
 
