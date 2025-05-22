@@ -1,8 +1,6 @@
-### About me
+### Hi, I'm Matheus.
 
 <p align="left">
-
-Hi, I'm Matheus.
 
 I’m a curious creative, passionate about innovation and technology. I started in marketing early on, learning design standards and studying Advertising at the top university in my hometown.
 
