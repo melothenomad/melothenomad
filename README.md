@@ -2,13 +2,15 @@
 
 <p align="left">
 
-I'm a Data Scientist with a Marketing background and a postgraduate degree in Innovation & User Experience from ESPM.
+Hi, I'm Matheus.
 
-From 2021 to 2024, I helped a company in the pharmaceutical sector increase sales by 300% by leveraging marketing KPIs and developing data-driven product campaigns. Today, I help Web3 projects grow through data-driven marketing strategy.
+I’m a curious creative, passionate about innovation and technology. I started in marketing early on, learning design standards and studying Advertising at the top university in my hometown.
 
-I'm proficient in tools like Power BI, and currently sharpening my skills in Python and SQL. I use data to generate insights and support teams in making informed decisions that drive product growth.
+I’ve always felt comfortable developing campaigns, but I knew I needed more to grow as a professional, so I sharpened my skills at ESPM, São Paulo’s leading school for innovation, marketing, and design.
 
-Recently, I created [Cryptoscope](https://cryptoscope.framer.ai/), a web application that showcases cryptocurrency prices through interactive visualizations and analytics. The project aims to help investors and traders develop better strategies by offering deeper, more actionable views of crypto markets.
+As my curiosity for tech grew, so did my need for deeper technical knowledge. That led me to specialize in Data Science at USP. That same hunger for diving deeper into data is what pulled me into Web3. I immersed myself in blockchain technology, learned alongside experts, and collaborated with major companies in the ecosystem.
+
+I like to say this mix of skills allows me to approach problems from different angles, and I believe that’s what shapes a truly creative and adaptable professional.
 
 </p>
 
