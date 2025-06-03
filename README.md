@@ -2,7 +2,7 @@
 
 <p align="left">
 
-I’m a analytical professional, passionate about innovation and technology. I started in marketing early on, learning design standards and studying Advertising at the top university in my hometown.
+I’m an analytical professional, passionate about innovation and technology. I started in marketing early on, learning design standards and studying Advertising at the top university in my hometown.
 
 I’ve always felt comfortable developing campaigns, but I knew I needed more to grow as a professional, so I sharpened my skills at ESPM, São Paulo’s leading school for innovation, marketing, and design.
 
