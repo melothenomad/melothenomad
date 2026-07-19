@@ -1,22 +1,23 @@
-### Hi, I'm Matheus.
+### Hi, I'm Melo.
 
-<p align="left">
+Matheus Melo ([@melothenomad](https://x.com/melothenomad)) is an AI-driven content strategist and systems architect who builds automated content engines for blockchain companies in the open.
 
-I’m an analytical professional, passionate about innovation and technology. I started in marketing early on, learning design standards and studying Advertising at the top university in my hometown.
+That's the one-liner. Here's the story.
 
-I’ve always felt comfortable developing campaigns, but I knew I needed more to grow as a professional, so I sharpened my skills at ESPM, São Paulo’s leading school for innovation, marketing, and design.
+I started with Photoshop at 12. That turned into design, and design turned into the thing underneath it: strategy, positioning, and the craft of making people care about something complicated.
 
-As my curiosity for tech grew, so did my need for deeper technical knowledge. That led me to specialize in Data Science at USP. That same hunger for diving deeper into data is what pulled me into Web3. I immersed myself in blockchain technology, learned alongside experts, and collaborated with major companies in the ecosystem.
+These days I do that for decentralized finance. As part of the team at MOIC, I've led narrative and positioning work for Shift DeFi, a non-custodial asset management platform, and Bracket, which onboards AUM into actively managed onchain yield. Protocol launches, ecosystem positioning, daily social, and the job underneath all of it: making something technical land with people who are scrolling fast.
 
-I like to say this mix of skills allows me to approach problems from different angles, and I believe that’s what shapes a truly creative and adaptable professional.
+A daily cadence across multiple accounts breaks when it depends on one person's typing speed, and default AI output loses the voice. So I built an engine that solves both: it grounds its voice only on posts that actually published, enforces house style as code, gates every draft against a list of AI tells before it ships, and publishes through the Typefully API.
 
-</p>
+It runs every day. The output is on [X](https://x.com/melothenomad), and the longer work lives at [melothenomad.xyz](https://melothenomad.xyz).
 
 ---
 
 <div align="center">
-  
-  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusbcmelo/)](https://www.linkedin.com/in/matheusbcmelo/)
-  [![Twitter Badge](https://img.shields.io/twitter/follow/:matheusbcmelo)](https://twitter.com/matheusbcmelo)
+
+  [![Website Badge](https://img.shields.io/badge/Website-melothenomad.xyz-E9724C?style=flat-square&logo=googlechrome&logoColor=white)](https://melothenomad.xyz)
+  [![X Badge](https://img.shields.io/badge/X-@melothenomad-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/melothenomad)
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-matheusbcmelo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusbcmelo/)
 
 </div>
