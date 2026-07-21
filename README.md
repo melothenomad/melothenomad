@@ -1,6 +1,6 @@
 ### Hi, I'm Melo.
 
-Matheus Melo ([@melothenomad](https://x.com/melothenomad)) is an AI-driven content strategist and systems architect who builds automated content engines for blockchain companies in the open.
+Matheus Melo ([@melothenomad](https://x.com/melothenomad)) is a content and growth strategist who builds AI-powered content engines for blockchain companies.
 
 That's the one-liner. Here's the story.
 
@@ -9,8 +9,6 @@ I started with Photoshop at 12. That turned into design, and design turned into 
 These days I do that for decentralized finance. As part of the team at MOIC, I've led narrative and positioning work for Shift DeFi, a non-custodial asset management platform, and Bracket, which onboards AUM into actively managed onchain yield. Protocol launches, ecosystem positioning, daily social, and the job underneath all of it: making something technical land with people who are scrolling fast.
 
 A daily cadence across multiple accounts breaks when it depends on one person's typing speed, and default AI output loses the voice. So I built an engine that solves both: it grounds its voice only on posts that actually published, enforces house style as code, gates every draft against a list of AI tells before it ships, and publishes through the Typefully API.
-
-It runs every day. The output is on [X](https://x.com/melothenomad), and the longer work lives at [melothenomad.xyz](https://melothenomad.xyz).
 
 ---
 
