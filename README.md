@@ -1,14 +1,14 @@
 ### Hi, I'm Melo.
 
-Matheus Melo ([@melothenomad](https://x.com/melothenomad)) is a content and growth strategist who builds AI-powered content engines for blockchain companies.
+Matheus Melo ([@melothenomad](https://x.com/melothenomad)) is a marketing strategist who builds AI-powered marketing systems for onchain finance companies.
 
-That's the one-liner. Here's the story.
+Great marketing starts with what the company is actually trying to do and who it is for, defining the value proposition, then setting the positioning that makes the product the one people remember.
 
-I started with Photoshop at 12. That turned into design, and design turned into the thing underneath it: strategy, positioning, and the craft of making people care about something complicated.
+Then it is distribution across the fronts that fit the goals: narrative and messaging, content strategy, KOLs, a structured community, newsletter cadence, events, plus the website, landing pages, and press that carry it.
 
-These days I do that for decentralized finance. As part of the team at MOIC, I've led narrative and positioning work for Shift DeFi, a non-custodial asset management platform, and Bracket, which onboards AUM into actively managed onchain yield. Protocol launches, ecosystem positioning, daily social, and the job underneath all of it: making something technical land with people who are scrolling fast.
+Positioning is the difference between a product people scroll past and one they remember.
 
-A daily cadence across multiple accounts breaks when it depends on one person's typing speed, and default AI output loses the voice. So I built an engine that solves both: it grounds its voice only on posts that actually published, enforces house style as code, gates every draft against a list of AI tells before it ships, and publishes through the Typefully API.
+If you are building in onchain finance, I would love to hear what you are working on :)
 
 ---
 
